@@ -4,6 +4,10 @@
 
 Welcome to my GitHub profile! I'm passionate about web development and love building modern, responsive, and user-friendly applications.
 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Eisha786">
+</a>
+
 ## 🚀 About Me
 
 * 🌱 Currently learning **React.js, JavaScript, and Python**
