@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there 👋, I'm Eisha
 
-<!--
-**Eisha786/Eisha786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Developer | React Enthusiast | Computer Science Student
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about web development and love building modern, responsive, and user-friendly applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🌱 Currently learning **React.js, JavaScript, and Python**
+* 💻 Building projects with **HTML, CSS, JavaScript, React, and Tailwind CSS**
+* 🎯 Interested in **Frontend Development** and **UI/UX Design**
+* 📚 Computer Science Student
+* ⚡ Always exploring new technologies and improving my coding skills
+
+## 🛠️ Technologies & Tools
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React.js
+* Tailwind CSS
+* Bootstrap
+
+### Programming Languages
+
+* JavaScript
+* Python
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Figma
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eisha786\&show_icons=true)
+
+## 🔥 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eisha786\&layout=compact)
+
+## 🌟 Current Goals
+
+* Master React.js
+* Learn Backend Development
+* Build Full-Stack Applications
+* Contribute to Open Source Projects
+
+## 📫 Connect With Me
+
+Feel free to explore my repositories and connect with me!
+
+⭐ Don't forget to star repositories you find useful!
