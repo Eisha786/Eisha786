@@ -48,16 +48,21 @@ Welcome to my GitHub profile! I'm passionate about web development and love buil
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eisha786&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eisha786&show_icons=true&theme=tokyonight)
 
 ## 🔥 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eisha786&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eisha786&layout=compact&theme=tokyonight)
 
 ## 🌟 Current Goals
 
-* Master React.js
-* Contribute to Open Source Projects
+* ⚡ Learn System Design & Backend Architecture
+* ☁️ Explore Cloud Technologies (AWS, Docker)
+* 🤖 Learn AI Integration in Web Applications
+* 🧠 Improve Data Structures & Algorithms
+* 🌍 Contribute to Open Source Projects
+* 📱 Build High-Performance and Responsive Web Apps
+* 📚 Continuously Learn Modern Web Technologies
 
 ## 📫 Connect With Me
 
