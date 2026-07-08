@@ -10,9 +10,8 @@ Welcome to my GitHub profile! I'm passionate about web development and love buil
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **React.js, JavaScript, and Python**
-* 💻 Building projects with **HTML, CSS, JavaScript, React, and Tailwind CSS**
-* 🎯 Interested in **Frontend Development** and **UI/UX Design**
+* 🌱 Currently learning Python*c
+* 💻 Building projects with ** MERN **
 * 📚 Computer Science Student
 * ⚡ Always exploring new technologies and improving my coding skills
 
@@ -26,6 +25,14 @@ Welcome to my GitHub profile! I'm passionate about web development and love buil
 * React.js
 * Tailwind CSS
 * Bootstrap
+
+### Backend
+
+* Node.js (Runs JavaScript on the server.)
+* Express.js (Simplifies API development in Node.js.)
+* MongoDB (Database)
+* Mongoose
+
 
 ### Programming Languages
 
@@ -41,17 +48,15 @@ Welcome to my GitHub profile! I'm passionate about web development and love buil
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eisha786\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eisha786&show_icons=true)
 
 ## 🔥 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eisha786\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eisha786&layout=compact)
 
 ## 🌟 Current Goals
 
 * Master React.js
-* Learn Backend Development
-* Build Full-Stack Applications
 * Contribute to Open Source Projects
 
 ## 📫 Connect With Me
